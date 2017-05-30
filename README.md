@@ -6,7 +6,7 @@ I'm sharing here some solutions for programming challenges solved while I was un
 classmates formed a team to practice for the national Programming Marathon. So, I gathered here the solutions coded in C/C++ for the problems we managed to solve.
 
 The problems we attacked were taken from the book *"Programming Challenges: The Programming Contest Training Manual"*.
-All of them are available at the *Universidad de Valladolid (UVA)* Online Judge, available at [http://online-judge.uva.es](http://online-judge.uva.es).
+All of them are available at the *Universidad de Valladolid (UVA)* Online Judge, available at [https://uva.onlinejudge.org](https://uva.onlinejudge.org).
 
 We have subimitted our solutions to the UVA Online Judge and get accepted veredicts in all cases (of course, after some trials =p). You may refer to [my
 profiles's page (user ducirilo) at UVA Online Judge](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=20&page=show_authorstats&userid=47683) to see the status of my submissions for these problems.
