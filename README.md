@@ -17,7 +17,7 @@ This repository's content were organized into two subdirectories:
 + **problems**: contains the statements of the programming problems we solved. Each problem statement is in a PDF file whose name is the problem ID 
 in the book *"Programming Challenges: The Programming Contest Training Manual"*.
 
-+ **solutions**: contains de C/C++ source files containing the solutions for the problems we managed to solve. As in the case of statement files, each source code file is also named with the problem ID to which it refers.
++ **solutions**: contains the C/C++ source files containing the solutions for the problems we managed to solve. As in the case of statement files, each source code file is also named with the problem ID to which it refers.
 
 ## Contribute :-)
 
