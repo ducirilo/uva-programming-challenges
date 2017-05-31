@@ -2,7 +2,7 @@
 Solutions for some programming problems from book *"Programming Challenges: The Programming Contest Training Manual"*.
 
 ## About
-I'm sharing here some solutions for programming challenges solved while I was undergraduating at UNESP/Bauru (Brazil). At that time, me and some
+I'm sharing here some solutions for programming challenges solved while I was undergraduating at UNESP/Bauru (Brazil). At that time, some and I
 classmates formed a team to practice for the national Programming Marathon. So, I gathered here the solutions coded in C/C++ for the problems we managed to solve.
 
 The problems we attacked were taken from the book *"Programming Challenges: The Programming Contest Training Manual"*.
